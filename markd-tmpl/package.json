@@ -1,0 +1,47 @@
+{
+  "_from": "markd-tmpl",
+  "_id": "markd-tmpl@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-JMLXFCVnBfNLJ4ezn4ICCkum+7q6W2f1aRFvOnm7ZOk2MUC4UceBN+GVm9o8ZncjB1qA+n2tEuKh7fJ5fx3cDw==",
+  "_location": "/markd-tmpl",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "markd-tmpl",
+    "name": "markd-tmpl",
+    "escapedName": "markd-tmpl",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/markd-tmpl/-/markd-tmpl-1.1.0.tgz",
+  "_shasum": "8b50704df5ff5c98a92c243fd841e3d4276219ee",
+  "_spec": "markd-tmpl",
+  "_where": "E:\\gitHub\\markdown-to-html",
+  "author": {
+    "name": "WeiWo"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "marked": "^0.3.19"
+  },
+  "deprecated": false,
+  "description": "Parse Markdown to HTML with template",
+  "keywords": [
+    "markdown",
+    "template",
+    "html"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "markd-tmpl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
